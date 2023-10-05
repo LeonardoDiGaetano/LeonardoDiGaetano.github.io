@@ -2,7 +2,7 @@
 layout: page
 title: Dynamical systems on/of networks
 description: My works on evolution of temporal networks and dynamical processes.
-img: assets/img/hypergraph.png
+img: assets/img/lyapunov.png
 importance: 2
 category: Network Science
 related_publications: caligiuri2023lyapunov, di2022maximal
