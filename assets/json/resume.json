@@ -48,24 +48,24 @@
   "visiting": [
     {
       "institution": "QMUL, London, UK",
-      "area": "Mathematics",
+      "area": "Master Thesis",
       "studyType": "Master Thesis",
       "startDate": "05-2020",
       "endDate": "06-2020"
     },
     {
       "institution": "VUMC, Amsterdam, Netherlands",
-      "area": "Medicine",
-      "studyType": "Visiting research",
+      "area": "Visiting research on Brain Networks for Epilepsy",
+      "studyType": "Visiting PhD student",
       "startDate": "03-2022",
       "endDate": "04-2022"
     },
     {
       "institution": "DIEP, UVA, Amsterdam, Netherlands",
-      "area": "Emergent phenomena department",
-      "studyType": "Visiting research",
+      "area": "Visiting research on higher-order centrality of structural Brain Networks",
+      "studyType": "Visiting PhD student",
       "startDate": "05-2023",
-      "endDate": "05-2023"
+      "endDate": "06-2023"
     }
   ],
 
