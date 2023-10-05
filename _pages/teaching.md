@@ -15,6 +15,6 @@ nav_order: 5
   - Natural Science, University of Catania
 - **Teaching Assistant**, Introduction to Mathematics
   - PPE Department, Bachelor, CEU
-  - Quantitative Social Science department, Bachelor, CEU
+  - Quantitative Social Science Department, Bachelor, CEU
 - **Teaching Assistant**, Dynamical Systems
   - DNDS,  CEU
