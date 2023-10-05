@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Social systems analysis
+description: Data driven analysis of temporal and group dynamics in social systems.
+img: assets/img/c72h_illustration.svg
 importance: 3
 category: Social Dynamics
 ---
