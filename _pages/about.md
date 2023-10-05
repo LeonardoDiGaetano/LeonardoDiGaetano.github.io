@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://networkdatascience.ceu.edu/'>DNDS</a>. Quellenstraße 51, 1100 Wien.
+subtitle: PhD student at <a href='https://networkdatascience.ceu.edu/'>DNDS</a>.
 
 profile:
   align: right
