@@ -21,4 +21,4 @@ I am a physicist with a dedicated focus on network science, particularly in its 
 
 I am currently a PhD student in the department of [Network and data science](https://networkdatascience.ceu.edu/) @ [CEU](https://www.ceu.edu/) under the supervision of **Federico Battiston**.
 
-Previously, I have done my master degree at University of Catania under the supervision of **Vito Latora** and **Lucas Lacasa**.
+Previously, I have done my master degree at University of Catania under the supervision of **Vito Latora**.
