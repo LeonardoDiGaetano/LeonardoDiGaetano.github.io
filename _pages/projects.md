@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My projects!.
+description:
 nav: true
 nav_order: 2
 display_categories: [Network Science, Brain Networks, Social Dynamics, Coding]
