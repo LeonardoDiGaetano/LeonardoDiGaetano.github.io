@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3
+title: HGX
 description: I am part of HGX , a Python library for the analysis of real-world complex systems with group interactions and provides a comprehensive suite of tools and algorithms for constructing, visualizing, and analyzing hypergraphs.
 img: assets/img/logo.png
 redirect: https://github.com/HGX-Team/hypergraphx

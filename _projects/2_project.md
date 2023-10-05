@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Higher-order networks
+description: My works on foundations, structures and dynamics of higher-order networks.
+img: assets/img/hypergraph.png
 importance: 2
 category: Network Science
 giscus_comments: true
