@@ -17,3 +17,7 @@ In our recent work, we have turned our focus towards epilepsy, a prevalent neuro
 ## Structural brain networks and higher-order hubs
 
 Our research extends to studying structural brain networks, emphasizing the characterization of higher-order hubs. These hubs play a critical role in the overall connectivity and functioning of the brain, and their detailed analysis can shed light on various aspects of neural health, cognition, and disease states.
+
+# References
+
+### Coming soon...
