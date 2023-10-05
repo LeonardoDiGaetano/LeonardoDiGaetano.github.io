@@ -1,11 +1,11 @@
 ---
 layout: page
 title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+description: I am part of HGX , a Python library for the analysis of real-world complex systems with group interactions and provides a comprehensive suite of tools and algorithms for constructing, visualizing, and analyzing hypergraphs.
+img: assets/img/logo.png
+redirect: https://github.com/HGX-Team/hypergraphx
 importance: 3
-category: Brain Networks
+category: Coding
 ---
 
 Every project has a beautiful feature showcase page.
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/logo.png
     ---
 
 <div class="row">
