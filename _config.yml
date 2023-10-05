@@ -69,7 +69,7 @@ github_username: leonardodigaetano # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: leodigaetano # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: eonardo-di-gaetano-681ba31a6 # your LinkedIn user name
+linkedin_username: leonardo-di-gaetano-681ba31a6 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: tnbH7oJ5hBoC&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -175,10 +175,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: false
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
