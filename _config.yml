@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Leo
 middle_name:
 last_name: Di Gaetano
-email: leonardo.digaetano.96@gamil.com
+email: leonardo.digaetano.96[at]gamil.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Portfolio webpage of Leonardo Di Gaetano.
 footer_text: >

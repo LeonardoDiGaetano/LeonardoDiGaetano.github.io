@@ -3,12 +3,12 @@
     "name": "Leonardo Di Gaetano",
     "label": "PhD student in Network and Data Science",
     "image": "",
-    "email": "leonardo.digaetano.96@gmail.com",
+    "email": "leonardo.digaetano.96[at]gmail.com",
     "url": "https://leonardodigaetano.github.io",
      "location": {
       "address": "Quellenstraße 51",
       "postalCode": "1100",
-      "city": "Wien",
+      "city": "Vienna",
       "countryCode": "Austria"
     },
     "profiles": [
@@ -43,6 +43,29 @@
       "studyType": "BSc",
       "startDate": "2015",
       "endDate": "2018"
+    }
+  ],
+  "visiting": [
+    {
+      "institution": "QMUL, London, UK",
+      "area": "Mathematics",
+      "studyType": "Master Thesis",
+      "startDate": "March 2020",
+      "endDate": "June 2020"
+    },
+    {
+      "institution": "VUMC, Amsterdam, Netherlands",
+      "area": "Medicine",
+      "studyType": "Visiting research",
+      "startDate": "March 2022",
+      "endDate": "April 2022"
+    },
+    {
+      "institution": "DIEP, UVA, Amsterdam, Netherlands",
+      "area": "Emergent phenomena department",
+      "studyType": "Visiting research",
+      "startDate": "May 2023",
+      "endDate": "June 2023"
     }
   ],
 
