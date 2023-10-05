@@ -11,9 +11,10 @@ nav_order: 5
   - Biology Department, University of Catania
   - Natural Science Department, University of Catania
 - **Tutor**, Physics
-  - Biology and Natural Science Departments, University of Catania
+  - Biology  Departments, University of Catania
+  - Natural Science, University of Catania
 - **Teaching Assistant**, Introduction to Mathematics
   - PPE Department, Bachelor, CEU
-  - Data Science Department, Bachelor, CEU
+  - Quantitative Social Science department, Bachelor, CEU
 - **Teaching Assistant**, Dynamical Systems
-  - DNDS, CEU
+  - DNDS,  CEU
