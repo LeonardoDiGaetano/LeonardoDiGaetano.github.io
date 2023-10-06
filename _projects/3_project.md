@@ -16,5 +16,5 @@ One of our primary areas of interest has been the temporal patterns of human com
 
 ## Group formation in collaboration datasets
 
-Taking our analysis a step further, we ventured into the domain of scientific collaborations. By performing a higher-order analysis, we have critically examined how patterns and formations in scientific collaborations have evolved over time. This exploration was based on an extensive coauthorship dataset, providing insights into the ever-evolving nature of scientific networking and cooperation.
+By performing a higher-order analysis, we have critically examined how patterns and formations in scientific collaborations have evolved over time. This exploration was based on an extensive coauthorship dataset, providing insights into the ever-evolving nature of scientific networking and cooperation.
 
