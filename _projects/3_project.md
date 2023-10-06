@@ -12,7 +12,7 @@ We have worked on detecting patterns in human behaviors, diving deep into the in
 
 ## Temporal patterns of human communication
 
-One of our primary areas of interest has been the temporal patterns of human communication. We have rigorously studied the temporal characteristics and delved into the aspect of reciprocity across various communication datasets. This analysis provides a profound understanding of how and when humans communicate, unraveling the patterns that define our social connectivities.
+We have studied the temporal characteristics and delved into the aspect of reciprocity across various communication datasets. This analysis provides an understanding of how and when humans communicate, unraveling the patterns that define our social connectivities.
 
 ## Group formation in collaboration datasets
 
