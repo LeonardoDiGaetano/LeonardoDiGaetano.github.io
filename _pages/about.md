@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a physicist with a dedicated focus on network science, particularly in its application to brain networks and social systems. 
+I am a physicist specializing in network science, with specific emphasis on the analysis of brain networks and social systems.
 
-I am currently a PhD student in the department of [Network and data science](https://networkdatascience.ceu.edu/) @ [CEU](https://www.ceu.edu/) under the supervision of **Federico Battiston**.
+Currently, I am pursuing my PhD in [Network and Data Science](https://networkdatascience.ceu.edu/) at [Central European University](https://www.ceu.edu/), under the guidance of [Federico Battiston](https://scholar.google.com/citations?hl=it&user=aDf1nroAAAAJ&view_op=list_works&sortby=pubdate).
 
-Previously, I have done my master degree at University of Catania under the supervision of **Vito Latora**.
+Prior to this, I completed my master's degree at the University of Catania, where I was supervised by [Vito Latora](https://scholar.google.com/citations?user=jXTPa_AAAAAJ&hl) and Lucas Lacasa.
