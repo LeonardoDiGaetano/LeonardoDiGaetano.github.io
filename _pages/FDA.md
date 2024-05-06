@@ -27,7 +27,6 @@ nav: false
 <details style="background-color: #f9f9f9; border: 1px solid #d3d3d3; border-radius: 5px; margin: 10px 0; padding: 10px;">
   <summary style="font-weight: bold; margin-bottom: 5px; font-size: 18px; color: #0056b3; cursor: pointer;">In class activity: metimeter analysis</summary>
   <p style="font-size: 16px; padding: 5px; margin: 0; color: #0056b3;">Did you enjoy the in-class activity with mentimeter? here you find the results of our survey!</p>
-  <a href="/assets/pdf/week3_guide.pdf" style="text-decoration: none; color: #0056b3; font-size: 16px;">Download Week 3 Guide</a>
 </details>
 
 
