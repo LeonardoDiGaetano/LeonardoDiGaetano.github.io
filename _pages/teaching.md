@@ -18,7 +18,7 @@ nav_order: 5
   - Quantitative Social Science Department, Bachelor, CEU
 - **Teaching Assistant**, Dynamical Systems
   - DNDS,  CEU
-- **Senior teaching assistant**, Fundamentals of Data Analysis (2 ECTS)
+- **Senior teaching assistant**, [Fundamentals of Data Analysis](https://leonardodigaetano.github.io/teaching/FDA) (2 ECTS)
   -  Data Science and Society Department, Bachelor
 
 
