@@ -6,6 +6,13 @@ description: My teaching experience, TAs and tutoring.
 nav: false
 ---
 
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/assets/images/FDA_image.png" alt="Data Analysis Icon" style="width: 50px; height: auto; margin-right: 10px;">
+  <h1 style="margin: 0;">Fundamentals of Data Analysis</h1>
+</div>
+
+
 <details style="background-color: #f9f9f9; border: 1px solid #d3d3d3; border-radius: 5px; margin: 10px 0; padding: 10px;">
   <summary style="font-weight: bold; margin-bottom: 5px; font-size: 18px; color: #424246; cursor: pointer;">Syllabus</summary>
   <p style="font-size: 16px; padding: 5px; margin: 0; color: #424246;">Here you can find the syllabus of the course, click below for the download.</p>
@@ -32,4 +39,9 @@ nav: false
 </details>
 
 
-
+<details style="background-color: #f9f9f9; border: 1px solid #d3d3d3; border-radius: 5px; margin: 10px 0; padding: 10px;">
+  <summary style="font-weight: bold; margin-bottom: 5px; font-size: 18px; color: #424246; cursor: pointer;">For students: Moodle page.</summary>
+  <p style="font-size: 16px; padding: 5px; margin: 0; color: #424246;">
+    <a href="https://ceulearning.ceu.edu/course/view.php?id=16723" style="color: #424246; text-decoration: none;">Click here for the Moodle page.</a>
+  </p>
+</details>

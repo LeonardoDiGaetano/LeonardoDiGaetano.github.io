@@ -23,7 +23,7 @@ nav_order: 5
 
 
 <details style="background-color: #f9f9f9; border: 1px solid #d3d3d3; border-radius: 5px; margin: 10px 0; padding: 10px;">
-  <summary style="font-weight: bold; margin-bottom: 5px; font-size: 18px; color: #424246; cursor: pointer;">**My teaching philosophy**</summary>
+  <summary style="font-weight: bold; margin-bottom: 5px; font-size: 18px; color: #424246; cursor: pointer;">My teaching philosophy</summary>
   <p style="font-size: 16px; padding: 5px; margin: 0; color: #424246;">As a teacher, my philosophy is centered around empowering students to understand and engage with the material in a meaningful way. I believe in the maieutic process of teaching, which is a method of helping students to discover knowledge for themselves, rather than simply transmitting knowledge. To achieve this, I strive to connect with my students on a personal level, understand their unique needs and difficulties, and be flexible in my approach.
 
 I firmly believe in the importance of creating a safe and inclusive learning environment for all students. This includes actively addressing issues of equity and diversity, creating a culture of respect and open communication, and promoting mindfulness, self-awareness and emotional regulation practices, to help students to manage stress, anxiety, biases, mental blocks, and insecurity.
