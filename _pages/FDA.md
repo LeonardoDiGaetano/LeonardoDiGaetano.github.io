@@ -8,9 +8,9 @@ nav: false
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/assets/img/FDA_image.png" alt="Data Analysis Icon" style="width: 50px; height: auto; margin-right: 10px;">
+  <img src="/assets/img/FDA_image.png" alt="Data Analysis Icon" style="width: 100px; height: auto; margin-right: 10px;">
   <h1 style="margin: 0;">Fundamentals of Data Analysis</h1>
-</div>
+</div
 
 
 <details style="background-color: #f9f9f9; border: 1px solid #d3d3d3; border-radius: 5px; margin: 10px 0; padding: 10px;">
