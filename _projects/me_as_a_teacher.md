@@ -2,7 +2,7 @@
 layout: page
 title: Me as a teacher
 description: My teaching philosophy and my vision
-img: assets/img/illustration.png
+img: assets/img/prof_pic.jpg
 importance: 1
 category: Me as a teacher
 #related_publications: einstein1956investigations, einstein1950meaning

@@ -2,7 +2,7 @@
 layout: page
 title: My courses
 description: The courses that I have teached
-img: assets/img/illustration.png
+img: assets/img/course_illustration.jpg
 importance: 1
 category: Course sillabi
 #related_publications: einstein1956investigations, einstein1950meaning
