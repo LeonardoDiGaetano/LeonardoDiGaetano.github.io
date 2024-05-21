@@ -3,8 +3,8 @@ layout: page
 title: My courses
 description: The courses that I have taught
 img: assets/img/course_illustration.jpg
-importance: 1
-category: Course syllabi
+importance: 2
+category: Me as a teacher
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 
