@@ -8,9 +8,9 @@ category: Me as a teacher
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-# Course Evaluations
 
-Below are some of the feedback and evaluations I have received from my students. These quotes reflect the impact of my teaching approach and the positive experiences students have had in my courses.
+Below are some of the feedback and evaluations I have received from my students. 
+
 
 <div class="quote-carousel">
   <div class="quote-slide">
