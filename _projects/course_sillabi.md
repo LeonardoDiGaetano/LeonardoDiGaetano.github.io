@@ -1,14 +1,13 @@
 ---
 layout: page
 title: My courses
-description: The courses that I have taught
+description: Click here to have a look to the courses that I have taught over the years
 img: assets/img/course_illustration.jpg
 importance: 2
 category: Me as a teacher
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-# My courses
 
 Over the years, I have had the opportunity to teach and assist in a variety of courses, spanning multiple disciplines and educational levels. My approach is always centered around fostering a deep understanding of the material and engaging students actively in their learning process. Below is a list of the courses I have been involved with, along with a brief description of my role and contributions in each.
 
