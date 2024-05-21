@@ -8,16 +8,18 @@ category: Course sillabi
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-I have been deeply involved in the analysis of higher-order brain networks to study various problems. These analyses provide a unique perspective on the intricate connections and dynamics of brain networks, enabling deeper insights into various neurological conditions and the overall functioning of the brain.
+## My courses
 
-## Higher-order metrics for epilepsy
-
-In our recent work, we have turned our focus towards epilepsy, a prevalent neurological disorder. We propose the use of higher-order measures of centrality to effectively identify epileptogenic zones. These measures offer a nuanced understanding of the focal points of epileptic activity, providing invaluable information for both research and clinical applications.
-
-## Structural brain networks and higher-order hubs
-
-Our research extends to studying structural brain networks, emphasizing the characterization of higher-order hubs. These hubs play a critical role in the overall connectivity and functioning of the brain, and their detailed analysis can shed light on various aspects of neural health, cognition, and disease states.
-
-# References
-
-### Coming soon...
+- **Tutor**, Mathematics
+  - Biology Department, University of Catania
+  - Natural Science Department, University of Catania
+- **Tutor**, Physics
+  - Biology  Departments, University of Catania
+  - Natural Science, University of Catania
+- **Teaching Assistant**, Introduction to Mathematics
+  - PPE Department, Bachelor, CEU
+  - Quantitative Social Science Department, Bachelor, CEU
+- **Teaching Assistant**, Dynamical Systems
+  - DNDS,  CEU
+- **Senior teaching assistant**, [Fundamentals of Data Analysis](https://leonardodigaetano.github.io/teaching/FDA) (2 ECTS)
+  -  Data Science and Society Department, Bachelor
