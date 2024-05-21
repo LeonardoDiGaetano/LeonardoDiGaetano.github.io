@@ -9,11 +9,15 @@ category: Me as a teacher
 ---
 
 
-Over the years, I have had the opportunity to teach and assist in a variety of courses, spanning multiple disciplines and educational levels. My approach is always centered around fostering a deep understanding of the material and engaging students actively in their learning process. Below is a list of the courses I have been involved with, along with a brief description of my role and contributions in each.
+Over the years, I have had the opportunity to teach and assist in a variety of courses, spanning multiple disciplines and educational levels. 
+
+My approach is always centered around fostering a deep understanding of the material and engaging students actively in their learning process. 
+
+Below is a list of the courses I have been involved with, along with a brief description of my role and contributions in each.
 
 ## Tutor experience (Junior TA for Bachelor students)
 
-### Tutor, Mathematics
+#### Tutor, Mathematics
 - **Biology Department, University of Catania**
   - Assisted students in understanding mathematical concepts relevant to biology, including statistics and calculus.
   - Conducted one-on-one and group tutoring sessions to reinforce lecture material.
@@ -22,7 +26,7 @@ Over the years, I have had the opportunity to teach and assist in a variety of c
   - Provided tutoring in mathematics, focusing on its applications in natural sciences.
   - Helped students develop problem-solving skills and mathematical reasoning.
 
-### Tutor, Physics
+#### Tutor, Physics
 - **Biology Departments, University of Catania**
   - Tutored students in fundamental physics concepts, emphasizing their relevance to biological systems.
   - Supported students in preparing for exams and completing lab assignments.
@@ -33,7 +37,7 @@ Over the years, I have had the opportunity to teach and assist in a variety of c
 
 ## Teaching Assistant experience
 
-### Teaching Assistant, Introduction to Mathematics
+#### Teaching Assistant, Introduction to Mathematics
 - **PPE Department, Bachelor, CEU**
   - Assisted in teaching introductory mathematics courses, focusing on linear algebra, calculus, and probability.
   - Provided additional support through homework help and exam preparation sessions.
@@ -42,12 +46,12 @@ Over the years, I have had the opportunity to teach and assist in a variety of c
   - Collaborated in teaching foundational mathematics to social science students.
   - Emphasized quantitative methods and statistical reasoning in the context of social sciences.
 
-### Teaching Assistant, Dynamical Systems
+#### Teaching Assistant, Dynamical Systems
 - **DNDS, CEU**
   - Assisted in teaching a course on dynamical systems, covering differential equations and stability analysis.
   - Supported students in understanding complex mathematical models and their applications.
 
-### Senior Teaching Assistant, [Fundamentals of Data Analysis](https://leonardodigaetano.github.io/teaching/FDA) (2 ECTS)
+#### Senior Teaching Assistant, [Fundamentals of Data Analysis](https://leonardodigaetano.github.io/teaching/FDA) (2 ECTS)
 - **Data Science and Society Department, Bachelor**
   - Led sessions on data analysis, including data collection, preprocessing, statistical analysis, and visualization.
   - Focused on practical applications and guided students through hands-on projects.

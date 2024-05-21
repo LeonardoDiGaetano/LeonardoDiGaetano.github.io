@@ -10,7 +10,10 @@ category: Me as a teacher
 
 My passion for teaching began at a very young age. Since high school, I have been dedicated to helping my peers understand and excel in mathematics and scientific subjects. This early experience solidified my commitment to education and sparked my desire to pursue a career in teaching.
 
-One of the main reasons I enrolled in a PhD program was to fulfill my aspiration of teaching at a higher level. During my doctoral studies, I seized the opportunity to enhance my teaching skills by enrolling in the Teaching Certificate program offered by the Yehuda Elkana Center for Teaching at CEU. This comprehensive program provided me with valuable insights and practical tools to improve my teaching methods and better support my students' learning journeys.
+One of the main reasons I enrolled in a PhD program was to fulfill my aspiration of teaching at a higher level. 
+
+During my doctoral studies, I seized the opportunity to enhance my teaching skills by enrolling in the Teaching Certificate program offered by the Yehuda Elkana Center for Teaching at CEU. 
+
 
 ## Teaching Certificate
 
