@@ -5,9 +5,13 @@ permalink: /teaching/
 description:
 nav: true
 nav_order: 5
-display_categories: [Me as a teacher, Course sillabi, Course evaluation]
+display_categories: [Me as a teacher]
 horizontal: false
 ---
+
+
+Welcome to my teaching portfolio. This page provides an overview of my approach to teaching, the courses I have taught, and feedback from my students. My goal as an educator is to inspire and empower students, fostering a deep understanding and appreciation of the subjects I teach. Below, you will find detailed information on my teaching philosophy, the courses I've been involved with, and evaluations from my students.
+
 
 <!-- pages/projects.md -->
 <div class="projects">
