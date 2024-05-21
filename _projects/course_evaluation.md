@@ -8,9 +8,9 @@ category: Me as a teacher
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 
+# Course Evaluations
 
 Below are some of the feedback and evaluations I have received from my students. 
-
 
 <div class="quote-carousel">
   <div class="quote-slide">
@@ -50,7 +50,8 @@ Below are some of the feedback and evaluations I have received from my students.
   border: 1px solid #ccc;
   border-radius: 5px;
   background-color: #f9f9f9;
-  color: #d3d3d3; ;
+  color: #000; /* Explicitly set text color to black */
+  font-size: 1.2em; /* Increase font size for better readability */
 }
 
 .quote-slide.active {
