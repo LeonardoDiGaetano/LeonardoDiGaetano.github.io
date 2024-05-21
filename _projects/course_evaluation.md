@@ -49,8 +49,8 @@ Below are some of the feedback and evaluations I have received from my students.
   text-align: center;
   border: 1px solid #ccc;
   border-radius: 5px;
-  background-color: #f1f1f1;
-  color: #424246; ;
+  background-color: #f9f9f9;
+  color: #d3d3d3; ;
 }
 
 .quote-slide.active {
