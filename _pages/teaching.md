@@ -1,11 +1,11 @@
 ---
 layout: page
-title: My teaching portfolio
+title: my teaching portfolio
 permalink: /teaching/
 description:
 nav: true
 nav_order: 5
-display_categories: [Network Science, Brain Networks, Social Dynamics, Coding]
+display_categories: [Me as a teacher, Course sillabi, Course evaluation]
 horizontal: false
 ---
 
