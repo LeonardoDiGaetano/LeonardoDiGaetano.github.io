@@ -9,7 +9,7 @@ category: Me as a teacher
 ---
 
 Below are some of the feedback and evaluations I have received from my students. 
-<!-- <div class="quote-carousel">
+<div class="quote-carousel">
   <div class="quote-slide active">
     <em>"The way you explained complex concepts in a simple and relatable manner was incredibly helpful. Your passion for the subject really inspired me to learn more."</em>
   </div>
@@ -103,4 +103,4 @@ function prevSlide() {
 
 showSlide(currentIndex);
 setInterval(nextSlide, 3000); // Change slide every 3 seconds
-</script> -->
+</script>
