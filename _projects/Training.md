@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Path in Teaching
-description: Learn more about my studies as a teacher
+#description: Learn more about my studies as a teacher
 img: assets/img/teaching_certificate.jpg
 importance: 4
 category: Me as a teacher

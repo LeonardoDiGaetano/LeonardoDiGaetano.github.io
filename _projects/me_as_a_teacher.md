@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My teaching philosophy
-description: My teaching philosophy and my vision
+#description: My teaching philosophy and my vision
 img: assets/img/prof_pic.jpg
 importance: 1
 category: Me as a teacher

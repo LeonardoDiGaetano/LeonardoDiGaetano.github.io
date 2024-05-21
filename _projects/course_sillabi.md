@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My courses
-description: Click here to have a look to the courses that I have taught over the years
+#description: Click here to have a look to the courses that I have taught over the years
 img: assets/img/course_illustration.jpg
 importance: 2
 category: Me as a teacher
