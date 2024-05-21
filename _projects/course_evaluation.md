@@ -49,7 +49,7 @@ Below are some of the feedback and evaluations I have received from my students.
   text-align: center;
   border: 1px solid #ccc;
   border-radius: 5px;
-  background-color: #f9f9f9;
+  background-color: #fff;
   color: #000; /* Explicitly set text color to black */
   font-size: 1.2em; /* Increase font size for better readability */
 }
