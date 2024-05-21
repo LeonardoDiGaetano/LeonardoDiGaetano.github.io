@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Training and Certificates
-description: Teaching certificate 
+title: My Path in Teaching
+description: Learn more about my studies as a teacher
 img: assets/img/teaching_certificate.jpg
 importance: 4
 category: Me as a teacher
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
-
-# My Path in Teaching
 
 My passion for teaching began at a very young age. Since high school, I have been dedicated to helping my peers understand and excel in mathematics and scientific subjects. This early experience solidified my commitment to education and sparked my desire to pursue a career in teaching.
 
