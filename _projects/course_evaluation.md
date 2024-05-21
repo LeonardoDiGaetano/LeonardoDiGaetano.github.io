@@ -50,7 +50,7 @@ Below are some of the feedback and evaluations I have received from my students.
   border: 1px solid #ccc;
   border-radius: 5px;
   background-color: #f9f9f9;
-  color: #000; ;
+  color: #424246; ;
 }
 
 .quote-slide.active {
