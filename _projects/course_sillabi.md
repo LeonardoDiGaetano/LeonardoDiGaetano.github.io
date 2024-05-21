@@ -8,9 +8,11 @@ category: Me as a teacher
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-## My courses
+# My courses
 
 Over the years, I have had the opportunity to teach and assist in a variety of courses, spanning multiple disciplines and educational levels. My approach is always centered around fostering a deep understanding of the material and engaging students actively in their learning process. Below is a list of the courses I have been involved with, along with a brief description of my role and contributions in each.
+
+## Tutor experience (Junior TA for Bachelor students)
 
 ### Tutor, Mathematics
 - **Biology Department, University of Catania**
@@ -29,6 +31,8 @@ Over the years, I have had the opportunity to teach and assist in a variety of c
 - **Natural Science, University of Catania**
   - Offered tutoring in general physics, covering topics such as mechanics, thermodynamics, and electromagnetism.
   - Facilitated understanding through practical examples and hands-on activities.
+
+## Teaching Assistant experience
 
 ### Teaching Assistant, Introduction to Mathematics
 - **PPE Department, Bachelor, CEU**
