@@ -8,12 +8,9 @@ category: Me as a teacher
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-# Course Evaluations
-
 Below are some of the feedback and evaluations I have received from my students. 
-
 <div class="quote-carousel">
-  <div class="quote-slide">
+  <div class="quote-slide active">
     <em>"The way you explained complex concepts in a simple and relatable manner was incredibly helpful. Your passion for the subject really inspired me to learn more."</em>
   </div>
   <div class="quote-slide">
@@ -49,8 +46,8 @@ Below are some of the feedback and evaluations I have received from my students.
   text-align: center;
   border: 1px solid #ccc;
   border-radius: 5px;
-  background-color: #fff;
-  color: #000; /* Explicitly set text color to black */
+  background-color: #ffffff; /* Ensure background is white */
+  color: #000000; /* Ensure text color is black */
   font-size: 1.2em; /* Increase font size for better readability */
 }
 
@@ -68,6 +65,7 @@ button.prev, button.next {
   cursor: pointer;
   border-radius: 50%;
   user-select: none;
+  color: #000000; /* Ensure button text color is black */
 }
 
 button.prev {
