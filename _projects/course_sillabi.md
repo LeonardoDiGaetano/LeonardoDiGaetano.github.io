@@ -51,7 +51,7 @@ Below is a list of the courses I have been involved with, along with a brief des
   - Assisted in teaching a course on dynamical systems, covering differential equations and stability analysis.
   - Supported students in understanding complex mathematical models and their applications.
 
-#### Senior Teaching Assistant, [Fundamentals of Data Analysis](https://leonardodigaetano.github.io/teaching/FDA) (2 ECTS)
+#### Senior Teaching Assistant, [Fundamentals of Data Analysis](https://leonardodigaetano.github.io/teaching/FDA)
 - **Data Science and Society Department, Bachelor**
   - Led sessions on data analysis, including data collection, preprocessing, statistical analysis, and visualization.
   - Focused on practical applications and guided students through hands-on projects.
