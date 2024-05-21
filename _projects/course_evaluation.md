@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Evaluation
-description: The evaluation of my courses
+#description: The evaluation of my courses
 img: assets/img/evaluation_illustration.jpg
 importance: 3
 category: Me as a teacher
@@ -28,6 +28,8 @@ Below are some of the feedback and evaluations I have received from my students.
   <div class="quote-slide">
     <em>"Thank you for making math less intimidating and more accessible. Your teaching methods really made a difference for me."</em>
   </div>
+  <button class="prev" onclick="prevSlide()">&#10094;</button>
+  <button class="next" onclick="nextSlide()">&#10095;</button>
 </div>
 
 <style>
@@ -48,12 +50,36 @@ Below are some of the feedback and evaluations I have received from my students.
   border: 1px solid #ccc;
   border-radius: 5px;
   background-color: #f9f9f9;
+  color: black;
 }
 
 .quote-slide.active {
   display: block;
 }
 
+button.prev, button.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: #f1f1f1;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 50%;
+  user-select: none;
+}
+
+button.prev {
+  left: 10px;
+}
+
+button.next {
+  right: 10px;
+}
+
+button.prev:hover, button.next:hover {
+  background-color: #ddd;
+}
 </style>
 
 <script>
@@ -68,6 +94,11 @@ function showSlide(index) {
 
 function nextSlide() {
   currentIndex = (currentIndex + 1) % slides.length;
+  showSlide(currentIndex);
+}
+
+function prevSlide() {
+  currentIndex = (currentIndex - 1 + slides.length) % slides.length;
   showSlide(currentIndex);
 }
 
