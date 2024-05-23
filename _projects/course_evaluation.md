@@ -46,7 +46,7 @@ Below are some of the feedback and evaluations I have received from my students.
   text-align: center;
   border: 1px solid #ccc;
   border-radius: 5px;
-  background-color: #ffffff; /* Ensure background is white */
+  background-color: #424246; /* Ensure background is white */
   color: #000000; /* Ensure text color is black */
   font-size: 1.2em; /* Increase font size for better readability */
 }

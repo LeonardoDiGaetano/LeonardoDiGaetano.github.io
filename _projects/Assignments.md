@@ -21,12 +21,15 @@ category: Me as a teacher
 </div>
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="color: white;">[In-Class Survey Meta-Analysis](https://www.mentimeter.com/app/presentation/almw27xfb9irc3ammzfvsv6cyexv7q3p)</h2>
+  <h2 style="color: white;">In-Class Survey Meta-Analysis</h2>
   <p style="color: white;">During the course, I conducted an in-class activity where students completed a survey to provide feedback on the course. We then performed a meta-analysis of the survey results to evaluate the effectiveness of the teaching methods and identify areas for improvement. This activity not only helped me enhance the course but also taught students how to conduct and analyze surveys.</p>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/assets/img/meta_analysis.jpg" alt="Data Analysis Icon" style="width: 225px; height: auto; margin-right: 10px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <a href="https://www.mentimeter.com/app/presentation/almw27xfb9irc3ammzfvsv6cyexv7q3p/13q54pc1b9gj">
+      <img src="/assets/img/meta_analysis.jpg" alt="Survey Meta Analysis" style="width: 225px; height: auto; margin-right: 10px; border-radius: 10px;">
+    </a>
+  </div>
 </div>
-</div>
+
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="color: white;">Assessing Final Reports and Projects</h2>
