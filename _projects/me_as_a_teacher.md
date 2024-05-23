@@ -24,6 +24,7 @@ category: Me as a teacher
 </div>
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+  <h2>Being engaged, participate and have fun</h2>
   <p style="color: white;">I incorporate elements of fun, dialogue, group projects and other interactive strategies to encourage active learning, rather than passive absorption of information. I believe that the best way to learn is by doing, rather than just listening, and that the best students are those who are genuinely interested in the subject matter and eager to explore it further.</p>
   <p style="color: white;">My ultimate goal is to inspire and empower students to become lifelong learners and critical thinkers. I believe that by fostering a positive, relaxed, and inclusive learning environment, and by encouraging active engagement and curiosity, students will be able to gain a deeper understanding of the material, and develop the skills they need to succeed in their future endeavors.</p>
 </div>
