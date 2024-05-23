@@ -9,7 +9,7 @@ display_categories: [Me as a teacher]
 horizontal: false
 ---
 
-<div style="background-color: #fffae6; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+<div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h2>Welcome to my teaching portfolio!</h2>
   <p>This page provides an overview of my approach to teaching, the courses I have taught, and feedback from my students.</p>
   <p>My goal as an educator is to inspire and empower students, fostering a deep understanding and appreciation of the subjects I teach.</p>
