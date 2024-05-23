@@ -24,8 +24,7 @@ category: Me as a teacher
   <h2 style="color: white;">In-Class Survey Meta-Analysis</h2>
   <p style="color: white;">During the course, I conducted an in-class activity where students completed a survey to provide feedback on the course. We then performed a meta-analysis of the survey results to evaluate the effectiveness of the teaching methods and identify areas for improvement. This activity not only helped me enhance the course but also taught students how to conduct and analyze surveys.</p>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/assets/img/meta_analysis.png" alt="Data Analysis Icon" style="width: 75px; height: auto; margin-right: 10px;">
-  <h1 style="margin: 0;">Fundamentals of Data Analysis</h1>
+  <img src="/assets/img/meta_analysis.jpg" alt="Data Analysis Icon" style="width: 75px; height: auto; margin-right: 10px;">
 </div>
 </div>
 
