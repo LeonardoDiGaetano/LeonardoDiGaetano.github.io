@@ -14,9 +14,8 @@ category: Me as a teacher
   <p style="color: white;">Below is a list of the courses I have been involved with, along with a brief description of my role and contributions in each.</p>
 </div>
 
-<div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="color: white;">Tutor experience (Junior TA for Bachelor students)</h2>
-</div>
+### Tutor experience (Junior TA for Bachelor students)
+
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h3 style="color: white;">Tutor, Mathematics</h3>
@@ -54,9 +53,7 @@ category: Me as a teacher
   </ul>
 </div>
 
-<div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="color: white;">Teaching Assistant experience</h2>
-</div>
+### Teaching Assistant experience
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h3 style="color: white;">Teaching Assistant, Introduction to Mathematics</h3>

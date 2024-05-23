@@ -14,10 +14,8 @@ category: Me as a teacher
   <p style="color: white;">During my doctoral studies, I seized the opportunity to enhance my teaching skills by enrolling in the Teaching Certificate program offered by the Yehuda Elkana Center for Teaching at CEU.</p>
 </div>
 
-<div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="color: white;">Teaching Certificate</h2>
-  <p style="color: white;">The Teaching Certificate program included a variety of courses designed to develop essential teaching skills.</p>
-</div>
+### Teaching Certificate
+The Teaching Certificate program included a variety of courses designed to develop essential teaching skills.<
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h3 style="color: white;">Using an LMS (Moodle) for Teaching and Assessment</h3>
