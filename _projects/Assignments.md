@@ -17,13 +17,16 @@ category: Me as a teacher
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="color: white;">Analyzing Taylor Swift's Discography</h2>
   <p style="color: white;">In one of our interactive class sessions, we analyzed the discography of Taylor Swift using a Jupyter notebook. This hands-on activity allowed students to apply data analysis techniques to a real-world dataset, enhancing their understanding of data processing, visualization, and interpretation.</p>
-  <p style="color: white;"><a href="pdf/Notebook1.ipynb" download="TaylorSwift_Discography_Analysis.ipynb" style="color: white; text-decoration: underline;">Download the Jupyter notebook</a></p>
+  <p style="color: white;"><a href="assets/pdf/Notebook1.ipynb" download="TaylorSwift_Discography_Analysis.ipynb" style="color: white; text-decoration: underline;">Download the Jupyter notebook</a></p>
 </div>
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="color: white;">In-Class Survey Meta-Analysis</h2>
   <p style="color: white;">During the course, I conducted an in-class activity where students completed a survey to provide feedback on the course. We then performed a meta-analysis of the survey results to evaluate the effectiveness of the teaching methods and identify areas for improvement. This activity not only helped me enhance the course but also taught students how to conduct and analyze surveys.</p>
-  <p style="color: white;"><a href="img/meta_analysis.jpg"><img src="img/meta_analysis.jpg" alt="Survey Meta Analysis" style="width:100%; border-radius: 10px;"></a></p>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/assets/img/meta_analysis.png" alt="Data Analysis Icon" style="width: 75px; height: auto; margin-right: 10px;">
+  <h1 style="margin: 0;">Fundamentals of Data Analysis</h1>
+</div>
 </div>
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
