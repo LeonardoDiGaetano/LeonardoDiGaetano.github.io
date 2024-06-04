@@ -39,7 +39,7 @@ The Teaching Certificate program included a variety of courses designed to devel
 
 ### Reflections and Improvements
 
-Following a peer observation of my teaching session, I received valuable feedback that has significantly impacted my teaching approach. Here are the key reflections and improvements I have made:
+Part of the teaching certificate consisted on teaching-observation class. I received valuable feedback for one of my classes that has significantly impacted my teaching approach. Here are the key reflections and improvements I have made:
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h3 style="color: white;">Reflections on Peer Observation</h3>
@@ -52,8 +52,3 @@ Following a peer observation of my teaching session, I received valuable feedbac
   </ul>
 </div>
 
-<div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-  <h3 style="color: white;">Lessons Learned</h3>
-  <p style="color: white;">The peer observation process has been instrumental in my development as an educator. It provided an opportunity to receive constructive feedback and to reflect on my teaching practices. This experience has underscored the importance of continuous improvement and adaptation in teaching.</p>
-  <p style="color: white;">I am committed to applying these lessons to future teaching sessions, ensuring that I provide a structured, engaging, and effective learning experience for my students.</p>
-</div>
