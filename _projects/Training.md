@@ -15,7 +15,7 @@ category: Me as a teacher
 </div>
 
 ### Teaching Certificate
-The Teaching Certificate program included a variety of courses designed to develop essential teaching skills.<
+The Teaching Certificate program included a variety of courses designed to develop essential teaching skills.
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h3 style="color: white;">Using an LMS (Moodle) for Teaching and Assessment</h3>
@@ -35,4 +35,25 @@ The Teaching Certificate program included a variety of courses designed to devel
     <li><strong>Mentorship</strong>: Best practices for providing constructive feedback, fostering critical thinking, and encouraging independent research skills.</li>
     <li><strong>Ethical Considerations</strong>: Ensuring that students adhere to ethical standards in their research, including proper citation practices and considerations for human subjects research.</li>
   </ul>
+</div>
+
+### Reflections and Improvements
+
+Following a peer observation of my teaching session, I received valuable feedback that has significantly impacted my teaching approach. Here are the key reflections and improvements I have made:
+
+<div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+  <h3 style="color: white;">Reflections on Peer Observation</h3>
+  <p style="color: white;">The observation highlighted several strengths in my teaching, such as engaging students through interactive activities and maintaining a professional yet entertaining approach. However, it also identified areas for improvement, particularly in session structure, time management, and clarity of learning outcomes.</p>
+  <p style="color: white;">Based on this feedback, I have made several changes to enhance my teaching practice:</p>
+  <ul style="color: white;">
+    <li><strong>Improved Session Structure:</strong> I now ensure that each session begins with a clear introduction, outlining the learning outcomes and the session plan. This provides context and sets expectations for students.</li>
+    <li><strong>Enhanced Time Management:</strong> I have worked on better organizing my lesson plans to allow for pauses, transitions, and student questions. This includes pruning content to avoid rushing and ensuring a smoother flow.</li>
+    <li><strong>Clearer Learning Outcomes:</strong> I have refined my learning outcomes to be more specific and measurable. This helps in setting clear expectations and assessing whether students have achieved the desired knowledge and skills.</li>
+  </ul>
+</div>
+
+<div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+  <h3 style="color: white;">Lessons Learned</h3>
+  <p style="color: white;">The peer observation process has been instrumental in my development as an educator. It provided an opportunity to receive constructive feedback and to reflect on my teaching practices. This experience has underscored the importance of continuous improvement and adaptation in teaching.</p>
+  <p style="color: white;">I am committed to applying these lessons to future teaching sessions, ensuring that I provide a structured, engaging, and effective learning experience for my students.</p>
 </div>
