@@ -102,4 +102,4 @@ By the end of this session, students should be able to:
 
 ---
 #### Additional Resource
-For further reference, you can view the complete Jupyter notebook created in this session along with the students by clicking [here](assets/img/Notebook3.html).
+For further reference, you can view the complete Jupyter notebook created in this session along with the students by clicking [here](../../assets/img/Notebook3.html).
