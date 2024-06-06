@@ -20,6 +20,7 @@ category: Me as a teacher
 </div>
 
 [Click here to see the notebook created in class.](../../assets/img/Notebook3.html)
+
 [Check the class out here.](https://leonardodigaetano.github.io/projects/mock_class/)
 
 

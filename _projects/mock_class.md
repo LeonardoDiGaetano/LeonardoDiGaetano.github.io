@@ -12,7 +12,7 @@ category: Me as a teacher
 
 **Duration:** 1 hour   
 **Level:** Undergraduate in Data Science, first year
-
+**Course** [Fundamentals of Data Analysis](https://leonardodigaetano.github.io/teaching/FDA)
 
 
 #### Session Overview
