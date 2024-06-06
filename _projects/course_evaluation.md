@@ -25,19 +25,25 @@ Below are some of the feedback and evaluations I have received from my students.
 
 <div class="quote-carousel">
   <div class="quote-slide active">
-    <em>"The way you explained complex concepts in a simple and relatable manner was incredibly helpful. Your passion for the subject really inspired me to learn more."</em>
+    <em>"One of my best TA classes so far, thank you"</em>
   </div>
   <div class="quote-slide">
-    <em>"I appreciated the inclusive and supportive environment you created in the classroom. It made me feel comfortable asking questions and engaging with the material."</em>
+    <em>"Thank you for your work, open personality made classes fun and interesting"</em>
   </div>
   <div class="quote-slide">
-    <em>"Your use of practical examples and hands-on activities helped me understand the subject matter more deeply. Thank you for making learning so enjoyable."</em>
+    <em>"Keep the relaxed manner, I think it suited the style of this course very well."</em>
   </div>
   <div class="quote-slide">
-    <em>"The feedback and support you provided throughout the course were invaluable. You truly care about your students' success and it shows."</em>
+    <em>"Fantastic TA, not only prepared but also nice and friendly."</em>
   </div>
   <div class="quote-slide">
-    <em>"Thank you for making math less intimidating and more accessible. Your teaching methods really made a difference for me."</em>
+    <em>"Very good instructor, maybe finds something sometimes hard to explain but tries doing everything in his power to help. Very well done, wish there were more assistants like him!"</em>
+  </div>
+  <div class="quote-slide">
+    <em>"Leonardo is fully devoted, patient and always available to students. He is always well prepared and I really like his method – I would send him specific questions and he would explain them during TA sessions. He does even more than just focus on the questions by explaining broader mathematical concepts and relevant theory. This helps us strengthen our knowledge to be able to apply it to other questions. In this way, not only does he resolve the problems of one student, but makes the session beneficial for all attending his session. Additionally, I was very grateful that he identified some of my knowledge gaps, and he did it constructively and respectfully. He would always do an effort to answer all of our questions, even if it would take him extra time. Leonardo’s attention, guidance and support were very precious to me as it would help me grasp the concepts which I didn’t understand in class. I sincerely enjoyed the collaboration with him and I wish to have someone like him next semester."</em>
+  </div>
+  <div class="quote-slide">
+    <em>"He was absolutely great, he was the highlight of this course. Extremely kind, well prepared and available. Best TA we could ask for."</em>
   </div>
   <button class="prev" onclick="prevSlide()">&#10094;</button>
   <button class="next" onclick="nextSlide()">&#10095;</button>
