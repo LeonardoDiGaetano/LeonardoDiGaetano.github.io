@@ -8,7 +8,7 @@ category: Me as a teacher
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-### Example of a Class: Hands-On Python Session Analyzing Taylor Swift's Discography
+### Hands-On Python Session Analyzing Taylor Swift's Discography
 
 **Duration:** 1 hour   
 **Level:** Undergraduate in Data Science, first year
@@ -16,7 +16,7 @@ category: Me as a teacher
 
 
 #### Session Overview
-In this hands-on session, the instructor along with the students will use Python to analyze a dataset of Taylor Swift's discography in an hands-on coding session. 
+In this hands-on session, the instructor along with the students will create a Python notebook to analyze a dataset of Taylor Swift's discography in an hands-on coding session. 
 This will help students gain practical experience in data analysis and visualization, working in parallel with other peers and the instructor.
 
 #### Learning Outcomes
@@ -101,3 +101,5 @@ By the end of this session, students should be able to:
 - Depth of insights and reflections in the report.
 
 ---
+#### Additional Resource
+For further reference, you can view the complete Jupyter notebook used in this session by clicking [here](_projects/Notebook3.html).
