@@ -16,9 +16,10 @@ category: Me as a teacher
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="color: white;">Analyzing Taylor Swift's Discography</h2>
-  <p style="color: white;">In one of our interactive class sessions, we analyzed the discography of Taylor Swift using a Jupyter notebook. This hands-on activity allowed students to apply data analysis techniques to a real-world dataset, enhancing their understanding of data processing, visualization, and interpretation. [Click here to see the notebook created in class.](../../assets/img/Notebook3.html)</p>
-
+  <p style="color: white;">In one of our interactive class sessions, we analyzed the discography of Taylor Swift using a Jupyter notebook. This hands-on activity allowed students to apply data analysis techniques to a real-world dataset, enhancing their understanding of data processing, visualization, and interpretation. </p>
 </div>
+
+[Click here to see the notebook created in class.](../../assets/img/Notebook3.html)
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="color: white;">In-Class Survey Meta-Analysis</h2>
