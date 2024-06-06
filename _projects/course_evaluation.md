@@ -10,17 +10,6 @@ category: Me as a teacher
 
 Below are some of the feedback and evaluations I have received from my students. 
 
-### Instructor Evaluation Table
-
-| Question | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Responses | Individual Mean | UGS Mean | Pct Rnk |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Q2: The instructor was well prepared for the course. | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 7 | 8 | 17 | 9.2 | 9.1 | 34 |
-| Q3: Presentations by the instructor were clear. | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 3 | 5 | 7 | 17 | 8.7 | 8.7 | 35 |
-| Q4: The classroom environment encouraged student participation. | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 4 | 1 | 8 | 16 | 8.0 | 8.7 | 20 |
-| Q5: The instructor treated the students in a respectful and professional manner. | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 1 | 1 | 11 | 17 | 9.4 | 9.5 | 31 |
-| Q6: Feedback was given throughout the course. | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 7 | 7 | 17 | 9.2 | 8.5 | 68 |
-| Q7: The instructor was available for appointments and consultations outside of class. | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 1 | 13 | 17 | 9.8 | 9.4 | 58 |
-
 ### Student Testimonials
 
 <div class="quote-carousel">
