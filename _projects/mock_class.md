@@ -101,5 +101,5 @@ By the end of this session, students should be able to:
 - Depth of insights and reflections in the report.
 
 ---
-#### Additional Resource
-For further reference, you can view the complete Jupyter notebook created in this session along with the students by clicking [here](../../assets/img/Notebook3.html).
+#### Artifact
+During the class, along with students, we have made a notebook to analyse Taylor Swift's discography. You can view the complete Jupyter notebook created in this session by clicking [here](../../assets/img/Notebook3.html).

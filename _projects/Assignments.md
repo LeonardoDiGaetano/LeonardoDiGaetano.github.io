@@ -20,6 +20,8 @@ category: Me as a teacher
 </div>
 
 [Click here to see the notebook created in class.](../../assets/img/Notebook3.html)
+[Check the class out here.](https://leonardodigaetano.github.io/projects/mock_class/)
+
 
 <div style="background-color: #424246; border: 1px solid #424246; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="color: white;">In-Class Survey Meta-Analysis</h2>

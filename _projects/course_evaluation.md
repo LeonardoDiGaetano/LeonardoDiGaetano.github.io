@@ -111,5 +111,5 @@ function prevSlide() {
 }
 
 showSlide(currentIndex);
-setInterval(nextSlide, 3000); // Change slide every 3 seconds
+setInterval(nextSlide, 10000); // Change slide every 10 seconds
 </script>
