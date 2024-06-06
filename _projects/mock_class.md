@@ -11,7 +11,9 @@ category: Me as a teacher
 ### Hands-On Python Session Analyzing Taylor Swift's Discography
 
 **Duration:** 1 hour   
+
 **Level:** Undergraduate in Data Science, first year
+
 **Course** [Fundamentals of Data Analysis](https://leonardodigaetano.github.io/teaching/FDA)
 
 
