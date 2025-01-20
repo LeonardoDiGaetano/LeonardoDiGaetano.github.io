@@ -4,9 +4,9 @@
     - name:  NameFull
       value: Leonardo Di Gaetano
     - name: Date of Birth
-      value: 17thh December 1996
+      value: 1996
     - name: Languages
-      value: English, Italian, German, Spanish
+      value: English, Italian, Spanish, French
 
 - title: Education
   type: time_table

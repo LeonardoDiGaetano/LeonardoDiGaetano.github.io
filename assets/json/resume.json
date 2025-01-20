@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Leonardo Di Gaetano",
-    "occupation": "PhD student in Network and Data Science",
     "image": "",
      "location": {
       "address": "Quellenstraße 51",
@@ -19,15 +18,22 @@
   },
   "work": [
     {
-      "name": "Department of Network and Data Science, Central European University",
-      "position": "PhD student",
-      "url": "https://networkdatascience.ceu.edu/",
-      "startDate": "2020",
+      "name": "Institut de Neurosciences de la Timone & Centre de Physique Théorique, CNRS, Aix-Marseille Université",
+      "position": "Postdoctoral researcher",
+      "url": "https://www.cpt.univ-mrs.fr/",
+      "startDate": "2025",
       "endDate": "",
-      "summary": "Working on higher-order networks, structures, dynamics and applications. "
+      "summary": "Working on higher-order brain networks. "
     }
   ],
   "education": [
+    {
+      "institution": "Central European University",
+      "area": "Network and Data Science",
+      "studyType": "PhD",
+      "startDate": "2020",
+      "endDate": "2025"
+    },
     {
       "institution": "University of Catania, Catania, Italy",
       "area": "Theoretical Physics",
@@ -84,12 +90,12 @@
       "fluency": "Fluent"
     },
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Elementary"
     },
     {
       "language": "Spanish",
-      "fluency": "Elementary"
+      "fluency": "intermediate"
     }
   ]
 }
