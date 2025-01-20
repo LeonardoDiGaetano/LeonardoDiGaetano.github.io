@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href='https://networkdatascience.ceu.edu/'>DNDS</a>.
+subtitle: 
 
 profile:
   align: right
