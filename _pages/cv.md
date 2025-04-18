@@ -13,7 +13,7 @@ toc:
 <canvas id="network"></canvas>
 
 <style>
-  /* restore normal page scrolling */
+  /* 1) allow normal scrolling */
   html, body {
     margin: 0;
     padding: 0;
@@ -22,7 +22,8 @@ toc:
     background: none;
     overflow: auto;
   }
-  /* full‑screen fixed canvas behind content */
+
+  /* 2) full‑screen fixed canvas behind everything */
   canvas {
     position: fixed;
     top: 0;
@@ -32,11 +33,23 @@ toc:
     z-index: -1;
     background-color: #1C1C1D;
   }
-  /* container for your CV PDF/embed and description */
+
+  /* 3) override your CV layout’s wrappers to be transparent */
+  /*    — replace these selectors with whatever your layout generates */
+  .cv-content,
+  .cv-wrapper,
+  .page,
+  .page-content,
+  .content-area,
+  .toc-sidebar {
+    background: transparent !important;
+  }
+
+  /* 4) your own content container sits above the canvas */
   #content-container {
     position: relative;
     z-index: 1;
-    background-color: rgba(0,0,0,0);
+    background: transparent;
     padding: 1.5rem;
     max-width: 800px;
     margin: 2rem auto;
@@ -110,30 +123,33 @@ toc:
         }
       }
 
-      // 2) motion & repulsion
+      // 2) update motion & repulsion
       nodes.forEach(n => {
         if (mouse.x !== null) {
-          const dx = n.x - mouse.x, dy = n.y - mouse.y;
+          const dx   = n.x - mouse.x;
+          const dy   = n.y - mouse.y;
           const dist = Math.hypot(dx, dy);
           if (dist < MAX_DIST) {
             const force = (MAX_DIST - dist) / MAX_DIST;
-            n.vx += (dx/dist)*force*REPULSION_STRENGTH;
-            n.vy += (dy/dist)*force*REPULSION_STRENGTH;
+            n.vx += (dx/dist) * force * REPULSION_STRENGTH;
+            n.vy += (dy/dist) * force * REPULSION_STRENGTH;
           }
         }
-        n.vx *= FRICTION; n.vy *= FRICTION;
-        n.x += n.vx; n.y += n.vy;
-        if (n.x<0||n.x>width)  n.vx*=-1;
-        if (n.y<0||n.y>height) n.vy*=-1;
+        n.vx *= FRICTION;
+        n.vy *= FRICTION;
+        n.x  += n.vx;
+        n.y  += n.vy;
+        if (n.x < 0 || n.x > width)  n.vx *= -1;
+        if (n.y < 0 || n.y > height) n.vy *= -1;
       });
 
       // 3) draw edges, highlights, nodes
       for (let i = 0; i < NODE_COUNT; i++) {
         const n = nodes[i];
-        // edges
         for (let j = i+1; j < NODE_COUNT; j++) {
-          const m = nodes[j];
-          const dx = n.x - m.x, dy = n.y - m.y;
+          const m    = nodes[j];
+          const dx   = n.x - m.x;
+          const dy   = n.y - m.y;
           const dist = Math.hypot(dx, dy);
           if (dist < MAX_DIST) {
             ctx.beginPath();
@@ -143,7 +159,6 @@ toc:
             ctx.stroke();
           }
         }
-        // mouse highlight
         const dxm = n.x - mouse.x, dym = n.y - mouse.y;
         const dm = mouse.x!==null ? Math.hypot(dxm, dym) : Infinity;
         if (dm < HIGHLIGHT_RADIUS) {
@@ -153,7 +168,6 @@ toc:
           ctx.strokeStyle = `rgba(0,255,255,${1 - dm/HIGHLIGHT_RADIUS})`;
           ctx.stroke();
         }
-        // node
         ctx.beginPath();
         const r = dm < HIGHLIGHT_RADIUS ? 5 : 2;
         ctx.arc(n.x, n.y, r, 0, Math.PI*2);
@@ -172,9 +186,8 @@ toc:
 <div id="content-container">
   {% if page.cv_pdf %}
     <object data="{{ page.cv_pdf }}" type="application/pdf" width="100%" height="800">
-      <p>Your browser doesn’t support PDFs. <a href="{{ page.cv_pdf }}">Download the PDF</a>.</p>
+      Your browser doesn’t support PDFs. <a href="{{ page.cv_pdf }}">Download the PDF</a>.
     </object>
   {% endif %}
-
   {{ content }}
 </div>
