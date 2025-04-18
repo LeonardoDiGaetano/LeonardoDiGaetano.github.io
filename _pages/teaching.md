@@ -3,7 +3,7 @@ layout: page
 title: my teaching portfolio
 permalink: /teaching/
 description:
-nav: true
+nav: false
 nav_order: 5
 display_categories: [Me as a teacher]
 horizontal: false
