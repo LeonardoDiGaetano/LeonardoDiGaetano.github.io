@@ -35,6 +35,12 @@ social: true  # includes social icons at the bottom of the page
     left: 0;
     z-index: -1;
     display: block;
+    background-color: #000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    display: block;
   }
   /* Contenitore trasparente per il testo */
   #content-container {
