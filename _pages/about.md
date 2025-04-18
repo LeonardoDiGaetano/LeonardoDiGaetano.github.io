@@ -36,6 +36,11 @@ social: true  # includes social icons at the bottom of the page
     z-index: -1;
     display: block;
     background-color: #000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    display: block;
   }
   /* Contenitore trasparente per il testo */
   #content-container {
@@ -77,12 +82,9 @@ social: true  # includes social icons at the bottom of the page
       resize();
       nodes.length = 0;
       for (let i = 0; i < NODE_COUNT; i++) {
-        nodes.push({
-          x: Math.random() * width,
-          y: Math.random() * height,
-          vx: (Math.random() - 0.5) * VELOCITY_SCALE,
-          vy: (Math.random() - 0.5) * VELOCITY_SCALE
-        });
+        nodes.push({ x: Math.random() * width, y: Math.random() * height,
+                     vx: (Math.random() - 0.5) * VELOCITY_SCALE,
+                     vy: (Math.random() - 0.5) * VELOCITY_SCALE });
       }
     }
 
@@ -145,7 +147,8 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- Contenuto testuale con sfondo semi-trasparente -->
 <div id="content-container">
-I am a postdoctoral researcher affiliated with the [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/) and the [Centre de Physique Théorique, Aix‑Marseille Université](https://www.cpt.univ-mrs.fr/), under the supervision of [Alain Barrat](https://scholar.google.com/citations?user=5MeSMfAAAAAJ&hl=en) and [Andrea Brovelli](https://scholar.google.com/citations?user=vsskO0AAAAAJ&hl=en&oi=ao).
 
-I earned my PhD in [Network and Data Science](https://networkdatascience.ceu.edu/) at [Central European University](https://www.ceu.edu/), under the supervision of [Federico Battiston](https://scholar.google.com/citations?hl=it&user=aDf1nroAAAAJ&view_op=list_works&sortby=pubdate), with [Michele Starnini](https://scholar.google.com/citations?user=duBif0oAAAAJ&hl=en) as external advisor.
+I am a postdoctoral researcher with dual affiliations at the [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/) and the [Centre de Physique Théorique, Aix-Marseille Université](https://www.cpt.univ-mrs.fr/), under the supervision of [Andrea Brovelli](https://scholar.google.com/citations?user=vsskO0AAAAAJ&hl=en&oi=ao) and [Alain Barrat](https://scholar.google.com/citations?user=5MeSMfAAAAAJ&hl=en). My research lies at the intersection of network science and neuroscience, with a strong focus on the theoretical foundations of network science and their application to understanding the organization and dynamics of brain networks.
+
+I earned my PhD in [Network and Data Science](https://networkdatascience.ceu.edu/) at [Central European University](https://www.ceu.edu/), under the supervision of [Federico Battiston](https://scholar.google.com/citations?hl=it&user=aDf1nroAAAAJ&view_op=list_works&sortby=pubdate), with [Michele Starnini](https://scholar.google.com/citations?user=duBif0oAAAAJ&hl=en) as an external advisor.
 </div>
