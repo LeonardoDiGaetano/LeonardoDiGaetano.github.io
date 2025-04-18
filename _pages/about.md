@@ -35,7 +35,7 @@ social: true  # includes social icons at the bottom of the page
     left: 0;
     z-index: -1;
     display: block;
-    background-color: #000;
+    background-color: #2c3237;
     position: fixed;
     top: 0;
     left: 0;
@@ -46,7 +46,7 @@ social: true  # includes social icons at the bottom of the page
   #content-container {
     position: relative;
     z-index: 1;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: #2c3237;
     padding: 1.5rem;
     border-radius: 0.5rem;
     max-width: 800px;
