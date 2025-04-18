@@ -156,6 +156,9 @@ social: true  # includes social icons at the bottom of the page
     <a href="https://scholar.google.com/citations?user=vsskO0AAAAAJ&hl=it&oi=ao">Andrea Brovelli</a>
     and
     <a href="https://scholar.google.com/citations?hl=it&user=5MeSMfAAAAAJ">Alain Barrat</a>.
+  </p>
+  
+  <p>
     My research lies at the intersection of network science and neuroscience, with a strong focus on the theoretical foundations of network science and their application to understanding the organization and dynamics of brain networks.
   </p>
 
