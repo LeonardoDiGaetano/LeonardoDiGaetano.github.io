@@ -204,7 +204,7 @@ social: true
     <a href="https://scholar.google.com/citations?hl=it&user=5MeSMfAAAAAJ">Alain Barrat</a>.
   </p>
   <p>
-    My research lies at the intersection of network science and neuroscience, with a strong focus on the theoretical foundations of network science and their application to understanding the organization and dynamics of brain networks.
+    My research lies at the intersection of network science and neuroscience, with strong focus on the theoretical foundations of network science and their application to understanding the organization and dynamics of brain networks.
   </p>
   <p>
     I earned my PhD in
